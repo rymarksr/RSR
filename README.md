@@ -1,2 +1,2 @@
 # RSR
-It is my website portfolio, showcasing my skills, love for the arts, and, of course, who I am as a person.
+It is my website portfolio, showcasing my skills, personal and academic projects and my love for the arts.
